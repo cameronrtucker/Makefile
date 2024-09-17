@@ -1,6 +1,6 @@
 # @file Makefile
 # @author Cameron Tucker
-# @date 2024-09-17
+# @last modified 2024-09-17
 # @brief Builds employee program with warnings, flags, and manages all
 # object files. 
 
